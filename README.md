@@ -7,3 +7,5 @@ Here is a preview image of the site:
 Here are the relevant project resources:
 * [Figma File](https://www.figma.com/design/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?node-id=121-2&t=FHG1yc3W3qA2Io99-0)
 * [FreeCodeCamp Course Video](https://www.youtube.com/watch?v=LzMnsfqjzkA)
+### View the site live! 
+View the site live: [Click Here to View!](https://mrjgee.github.io/Hometown-Solo-Project-Scrimba/)
